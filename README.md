@@ -1,4 +1,4 @@
-# Project_Portfolio
+# Project_Portfolio 📈
 Data Science Project 
 
 # [Project 1: Employment Segmentation using Machine Learning](https://github.com/novitayldbrs/clusteringemployee)

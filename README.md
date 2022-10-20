@@ -1,6 +1,14 @@
 # Project_Portfolio 📈
 Data Science Project 
 
+Hello! 👋 My name is Novita Yolanda Barus. Currently, I am pursuing bachelor degree of Mathematic in the final year. I am really enthusiast in the field of data analyst and machine learning. 
+
+🤝 Connect with me:
+https://www.linkedin.com/in/novita-yolanda-barus-0139a7207/
+
+⚙️ Skills:
+Google Sheets, Python, Tableau, MySQL
+
 # [Project 1: Employment Segmentation using Machine Learning](https://github.com/novitayldbrs/clusteringemployee)
 ## Project Overview
 * Analyze employment behavior with given variable to segmenting them into a few cluster 

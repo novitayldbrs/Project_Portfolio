@@ -7,7 +7,7 @@ Data Science Project
 * Do data preparation, normalization, exploratory data analysis and modeling
 * Evaluate the model using Davis-Bouldin Index
 
-# [Project 2] Customer Churn Using Logistic Regression: Project Overview
+# [Project 2: Customer Churn Using Logistic Regression: Project Overview](https://github.com/novitayldbrs/cust_churn)
 * Customer churn is impoartant to predict in terms of used as an indicator of customer satisfaction.One company can improve quality that need to be explored
 * Algorithm used: Random Forest Classifier, Logistic Regression, Gradient Boosting Classifier
 * Use F-1 Score to measure the accuracy of each model

@@ -1,2 +1,2 @@
 # Project_Portfolio
-Segmeting Employee using Machine Learning by K-Means Clustering
+Segmenting Employee using Machine Learning by K-Means Clustering

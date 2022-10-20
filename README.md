@@ -14,3 +14,5 @@ Data Science Project
 * Algorithm used: Random Forest Classifier, Logistic Regression, Gradient Boosting Classifier
 * Use F-1 Score to measure the accuracy of each model
 * Find out that Logistic Regression is an effective model to use
+
+![](https://github.com/novitayldbrs/images/blob/main/Confusion%20Matrix.png)

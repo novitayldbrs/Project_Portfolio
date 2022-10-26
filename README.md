@@ -26,3 +26,8 @@ Google Sheets, Python, Tableau, MySQL
 * Find out that Logistic Regression is an effective model to use
 
 ![](https://github.com/novitayldbrs/images/blob/main/Confusion%20Matrix.png)
+
+# [Project 3: Customer Loan Application with Machine Learning in Home Credit Indonesia](https://github.com/novitayldbrs/Virtual-Intern-Home-Credit-Indonesia)
+## Project Overview
+* Run several compatible algorithm to predict the customer whether they are able to pay the loan and thei application get accepted (False Positive)
+* Algorithm: Logistic Regression and Gradient Boosting Classifier
